@@ -14,12 +14,3 @@ DOMAIN-SUFFIX,together.plex.tv
 DOMAIN-SUFFIX,community.plex.tv
 DOMAIN-SUFFIX,scrobbles.plex.tv
 DOMAIN-SUFFIX,features.plex.tv
-DST-PORT,32400
-DST-PORT,32401
-DST-PORT,32402
-DST-PORT,32403
-DOMAIN-SUFFIX,v4.plex.tv
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,plexapp.com
-DOMAIN-SUFFIX,plex.direct
-DOMAIN-KEYWORD,plex
