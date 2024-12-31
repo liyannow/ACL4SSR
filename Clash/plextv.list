@@ -1,5 +1,6 @@
 # plextv
 DOMAIN-SUFFIX,metadata-static.plex.tv
+metadata-static.plex.tv:
 DOMAIN-SUFFIX,metadata.provider.plex.tv
 DOMAIN-SUFFIX,provider.plex.tv
 DOMAIN-SUFFIX,analytics.plex.tv
@@ -14,3 +15,5 @@ DOMAIN-SUFFIX,together.plex.tv
 DOMAIN-SUFFIX,community.plex.tv
 DOMAIN-SUFFIX,scrobbles.plex.tv
 DOMAIN-SUFFIX,features.plex.tv
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,image.tmdb.org
