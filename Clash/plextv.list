@@ -1,0 +1,25 @@
+# plextv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,metadata.provider.plex.tv
+DOMAIN-SUFFIX,provider.plex.tv
+DOMAIN-SUFFIX,analytics.plex.tv
+DOMAIN-SUFFIX,meta.plex.tv
+DOMAIN-SUFFIX,support.plex.tv
+DOMAIN-SUFFIX,forums.plex.tv
+DOMAIN-SUFFIX,downloads.plex.tv
+DOMAIN-SUFFIX,clients.plex.tv
+DOMAIN-SUFFIX,pubsub.plex.tv
+DOMAIN-SUFFIX,images.plex.tv
+DOMAIN-SUFFIX,together.plex.tv
+DOMAIN-SUFFIX,community.plex.tv
+DOMAIN-SUFFIX,scrobbles.plex.tv
+DOMAIN-SUFFIX,features.plex.tv
+DST-PORT,32400
+DST-PORT,32401
+DST-PORT,32402
+DST-PORT,32403
+DOMAIN-SUFFIX,v4.plex.tv
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plexapp.com
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-KEYWORD,plex
